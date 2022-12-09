@@ -4,7 +4,7 @@
 
 ## Description
 
-[App-parts](https://github.com/mustafobek/app-parts/src/shared/services) contributes reusable services for apps.
+[App-parts](https://github.com/mustafobek/app-parts/tree/master/src/shared/services) contributes reusable services for apps.
 
 ## Installation
 
